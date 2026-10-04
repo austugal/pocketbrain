@@ -1,8 +1,10 @@
 # PocketBrain
 
-A small, private-by-default knowledge playground by Tiago Fitas.
+A small browser-based knowledge workspace by Tiago Fitas.
 
-Import Markdown or text files, search your notes, discover shared-term connections explore a keyboard-accessible connection map, create notes and practise recall with revision cards. No account, build step, API key or AI subscription.
+Import Markdown or text files, search your notes, discover shared-term connections, explore a keyboard-accessible connection map, create notes and practise recall with revision cards. No account, build step, API key or AI subscription.
+
+[Open the live demo](https://austugal.github.io/pocketbrain/)
 
 ## Run
 
